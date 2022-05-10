@@ -52,4 +52,3 @@ int main()
 	printJobScheduling(arr, n);
 	return 0;
 }
-
